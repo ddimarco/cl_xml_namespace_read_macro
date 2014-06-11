@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package>
+  <name>cl_xml_namespace_read_macro</name>
+  <version>0.0.1</version>
+  <description>Adds a reader macro for using shortcuts for XML namespaces. E.g. #"owl:Something" is extended to "http://www.w3.org/2002/07/owl#Something".</description>
+
+  <maintainer email="dimarco@ipvs.uni-stuttgart.de">Daniel Di Marco</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>sbcl</build_depend>
+  <run_depend>sbcl</run_depend>
+</package>

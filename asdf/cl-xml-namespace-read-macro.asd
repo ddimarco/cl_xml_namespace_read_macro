@@ -1,0 +1,1 @@
+../cl-xml-namespace-read-macro.asd
